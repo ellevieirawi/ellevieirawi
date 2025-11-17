@@ -2,7 +2,7 @@ Hey.👋
 
 I'm Gabrielle. I'm currently studying Business where I'm developing a strong foundation in management, strategy, and leadership. Alongside my studies, I'm actively exploring programming, technology, and digital innovation as part of a technology league. 
 My goal is expand my technical skills, understand how software solutions are built, and integrate this knowledge with my background in business.
-I'm commited to learning programming langiages, strengthening my analytical thinking, and gaining hands-on experience with tools that allow me to build efficient and impactful solutions. By combining business insights with technological skills, I aim to create innovative projects, solve real-world problems, and contribute meaningfully to the tech and startup ecosystem.
+I'm commited to learning programming languages, strengthening my analytical thinking, and gaining hands-on experience with tools that allow me to build efficient and impactful solutions. By combining business insights with technological skills, I aim to create innovative projects, solve real-world problems, and contribute meaningfully to the tech and startup ecosystem.
 
 ## 📫 Where am I?
 
